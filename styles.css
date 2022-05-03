@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+
+
+html {
+    background-color: rgb(247, 161, 175);
+}
+
+#main-section, #info-section{
+    margin-top: 100px;
+}
+
+
+#featured-recipes {
+    list-style: none;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+.recipe-pages {
+    text-decoration: none;
+    font-style: none;
+}
+
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+
+
